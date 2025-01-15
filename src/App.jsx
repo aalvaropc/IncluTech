@@ -14,7 +14,7 @@ const IncluyeTechDashboard = () => {
 
             <div className="summary">
                 <SummaryCard title="Vacantes para PCD" value="42,000" />
-                <SummaryCard title="PCD registradas en Empleos Perú" value="2000" />
+                <SummaryCard title="PCD registradas en Empleos Perú" value="2,000" />
                 <SummaryCard title="PCD que consiguieron empleo" value="490" />
             </div>
 
