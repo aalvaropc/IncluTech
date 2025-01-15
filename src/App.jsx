@@ -22,7 +22,7 @@ const IncluyeTechDashboard = () => {
 
             <footer className="footer">
                 <p>INCLUTECH</p>
-                <p>Integrantes: [Ronald Uchuya Alvarez], [Jorge Saira Chambi], [Alvaro Peña Peña]</p>
+                <p>Integrantes: [Ronaldo Alvarez Uchuya], [Jorge Saira Chambi], [Alvaro Peña Peña]</p>
             </footer>
         </div>
     );
