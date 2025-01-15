@@ -9,7 +9,7 @@ const IncluyeTechDashboard = () => {
         <div className="container">
             <header className="header">
                 <h1>INCLUTECH</h1>
-                <p>Reto 2: Tecnología para la inclusión laboral de personas con discapacidad</p>
+                <p>Tecnología para la inclusión laboral de personas con discapacidad</p>
             </header>
 
             <div className="summary">
@@ -21,8 +21,8 @@ const IncluyeTechDashboard = () => {
             <DashboardFrame />
 
             <footer className="footer">
-                <p>#DATATONMTPE2024 | INCLUTECH</p>
-                <p>Integrantes: [Carlos Junior Huamaní Napa], [Antony Campos Castro], [Alvaro Rodrigo Peña Peña]</p>
+                <p>INCLUTECH</p>
+                <p>Integrantes: [Ronald Uchuya Alvarez], [Jose Saira Chambi], [Alvaro Peña Peña]</p>
             </footer>
         </div>
     );
